@@ -28,7 +28,7 @@ NPR has a great underlying JSON file that I'll be using as a data source; howeve
 - [Sisters](https://g.co/kgs/yjWYge)
 - [Deacon King Kong](https://g.co/kgs/SWuwYe)
 - [Luster](https://g.co/kgs/G9Mgca)
-- [Writers & Lovers]https://g.co/kgs/s37fXy)
+- [Writers & Lovers](https://g.co/kgs/s37fXy)
 - [Little Eyes](https://g.co/kgs/QsTAqy)
 - [Uncanny Valley: A Memoir](https://g.co/kgs/PGT7M4)
 - [Real Life](https://g.co/kgs/NVPF44)
