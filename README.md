@@ -3,7 +3,7 @@
 
 My final output of highly-recommended books to read is below. In this repo, the Jupyter notebook with Python code can be reused and adapted to whichever book recommendation lists you hold in high esteem. 
 
-NPR has a great underlying JSON file that I'll be using as a data source; however, it seems that both the New York Times list is not as conveniently formatted. I'll be using my preferred webscraping library, [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/), to parse out book title data from these sites.
+NPR has a great underlying JSON file that I'll be using as a data source; however, it seems that both the New York Times list is not as conveniently formatted. I'll be using my preferred webscraping library, [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/), to parse out book title data from this site.
 
 # Lists Referenced
 - [NPR's Best Books of 2020](https://apps.npr.org/best-books/#tags=staff+picks&view=covers&year=2020)
